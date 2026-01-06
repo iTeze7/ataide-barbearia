@@ -707,3 +707,13 @@ ul {
     font-size: 4rem;
   }
 }
+.site-by.cta {
+  color: #7817c7;
+  font-size: 0.85rem;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.site-by.cta:hover {
+  text-decoration: underline;
+}
