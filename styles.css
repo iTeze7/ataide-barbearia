@@ -707,13 +707,11 @@ ul {
     font-size: 4rem;
   }
 }
-.site-by.cta {
-  color: #7817c7;
+.dev-credit {
   font-size: 0.85rem;
-  font-weight: 600;
-  text-decoration: none;
+  letter-spacing: 0.5px;
+  color: #000000;
 }
-
-.site-by.cta:hover {
+.dev-credit:hover {
   text-decoration: underline;
 }
